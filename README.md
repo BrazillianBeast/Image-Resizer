@@ -4,8 +4,7 @@ Image Resizer is a Python/PyQT5 for dealing with image resizing.
 
 ## Example
 
-![Image Resizer App]
-(https://media-exp1.licdn.com/dms/image/C4E22AQGwcHPC-GIeZg/feedshare-shrink_800/0/1637671510466?e=1641427200&v=beta&t=oVm54xBvzTKX637Nsx_gktZ1BiCOhoek_vM56J86L5Y)
+![](https://media-exp1.licdn.com/dms/image/C4E22AQGwcHPC-GIeZg/feedshare-shrink_800/0/1637671510466?e=1641427200&v=beta&t=oVm54xBvzTKX637Nsx_gktZ1BiCOhoek_vM56J86L5Y)
 
 ## Installation
 
